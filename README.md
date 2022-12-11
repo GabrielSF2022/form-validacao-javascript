@@ -1,8 +1,8 @@
 # <div align="center">📌TELA DE LOGIN📌 </div>
 <h1 align="center">TELA DE LOGIN!!!!
 
+![Form Validação - Google Chrome 2022-12-11 20-30-56](https://user-images.githubusercontent.com/97768716/206935895-e441b8bf-6638-4c9f-8b87-5b4d7700bcd1.gif)
 
-![Tela de Login - Google Chrome 2022-05-13 15-22-57](https://user-images.githubusercontent.com/97768716/168344616-be19c049-ce4f-4bb8-bb84-2bbae9e2f8a5.gif)
 ![Design_sem_nome__3_-removebg-preview](https://user-images.githubusercontent.com/97768716/172182008-831e95f3-45d4-4630-9e1b-74fd51e623e1.png)
 
   
