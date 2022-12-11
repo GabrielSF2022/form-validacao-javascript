@@ -13,11 +13,11 @@
     <div class="card-login">
         <h1>LOGIN</h1>
 
-        <form>
+        <form id="form">
 
             <div class="textfield">
                 <label for="usuario">Usuário:</label>
-                <input type="text" name="usuario" placeholder="Usuário">
+                <input type="text" name="usuario" placeholder="Usuário" class="inputs required" oninput="nameValidate()">
                 <span class="span-required">Usuário deve ter no minino 3 caracteres</span>
             </div>
 
@@ -25,14 +25,14 @@
 
             <div class="textfield">
                 <label for="usuario">Email:</label>
-                <input type="email" name="Email" placeholder="Email">
+                <input type="email" name="Email" placeholder="Email" class="inputs required">
             </div>
 
             <br>
 
             <div class="textfield">
                 <label for="senha">Senha:</label>
-                <input id="input" type="password" name="password" placeholder="Senha">
+                <input id="input" type="password" name="password" placeholder="Senha" class="inputs required">
                 <i id="visible" class="fas fa-eye-slash" aria-hidden="true"></i>
                 <br>
             </div>
@@ -41,17 +41,18 @@
 
             <div class="textfield">
                 <label for="senha"> Repita sua Senha:</label>
-                <input id="input" type="password" name="password" placeholder="Senha">
+                <input id="input" type="password" name="password" placeholder="Senha" class="inputs required">
                 <i id="visible" class="fas fa-eye-slash" aria-hidden="true"></i>
                 <br>
             </div>
 
-            <div class="df">
-                <button type="submit" class="btn-login">Enviar</button>
-            </div>    
+           
+            <button type="submit" class="btn-login">Enviar</button>
+           
         </form>
 
     </div>
 </body>
 
+<script src="./src/js/script.js"></script>
 </html>
