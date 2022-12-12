@@ -12,6 +12,21 @@
 
   
 
+# Descrição do projeto
+
+
+1. Verificação se o usuário tem pelo menos 3 caracteres, se não tiver ira aparecer um borda vermelha no input e uma mensagem com um aviso.
+
+2. Uso de Regex para validar o email que for dito pelo usuario.
+
+3. Icone de olho para deixar a senha visivel e voltar ao normal.
+
+4. Comparador de senha, onde as senhas devem ser iguais, se não ira exibir uma mensagem de aviso e as bordas vão ficar vermelhas.
+
+5. Quando clicar no botão de enviar, se algum input estiver errado ira exibir uma mensagem nos inputs que tiverem algum erro.
+
+
+
 
 <h2 align="center"> FERRAMENTAS USADAS </h2>
  
